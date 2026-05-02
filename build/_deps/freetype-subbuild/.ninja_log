@@ -1,0 +1,21 @@
+# ninja log v6
+5	140	7994580361235049	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	9b8f948b68faa7f5
+5	140	7994580361235049	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	9b8f948b68faa7f5
+141	11921	7994580479049224	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	96d643803c2c0dab
+141	11921	7994580479049224	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	96d643803c2c0dab
+11959	12299	7994580479548699	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	3a8557a45116490c
+11959	12299	7994580479548699	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	3a8557a45116490c
+12300	12486	7994580484628022	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	96ba3f2672cd2246
+12300	12486	7994580484628022	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	96ba3f2672cd2246
+12487	12594	7994580485808747	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	8e687590db2b07a6
+12487	12594	7994580485808747	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	8e687590db2b07a6
+12595	12698	7994580486785723	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	6a9add98b23f2452
+12595	12698	7994580486785723	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	6a9add98b23f2452
+12699	12822	7994580488059942	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	66abf9c90fccb945
+12699	12822	7994580488059942	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	66abf9c90fccb945
+12822	12941	7994580489216121	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	33636fcc76f84bc6
+12822	12941	7994580489216121	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	33636fcc76f84bc6
+12941	13116	7994580490980947	CMakeFiles/freetype-populate-complete	2c6b75050ac59bb
+12941	13116	7994580490980947	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	2c6b75050ac59bb
+12941	13116	7994580490980947	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	2c6b75050ac59bb
+12941	13116	7994580490980947	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	2c6b75050ac59bb

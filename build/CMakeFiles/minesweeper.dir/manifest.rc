@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/CMakeFiles/minesweeper.dir/embed.manifest"

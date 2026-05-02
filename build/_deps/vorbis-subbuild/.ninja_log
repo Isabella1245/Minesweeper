@@ -1,0 +1,21 @@
+# ninja log v6
+6	131	7994580951457858	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	de83e660c6e53057
+6	131	7994580951457858	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	de83e660c6e53057
+132	4627	7994580996427854	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	8bac7fb4c92969f
+132	4627	7994580996427854	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	8bac7fb4c92969f
+4665	4989	7994580996929077	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	8e1303b51ef352ef
+4665	4989	7994580996929077	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	8e1303b51ef352ef
+4989	5173	7994581001897429	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	d1fc3dfa31a12224
+4989	5173	7994581001897429	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	d1fc3dfa31a12224
+5173	5295	7994581003115478	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	f359fa73f7cdbc5f
+5173	5295	7994581003115478	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	f359fa73f7cdbc5f
+5295	5413	7994581004258752	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	9427d7b09423cebb
+5295	5413	7994581004258752	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	9427d7b09423cebb
+5414	5543	7994581005603834	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	93610cd068072e01
+5414	5543	7994581005603834	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	93610cd068072e01
+5544	5665	7994581006824954	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	19213e4e209e0eda
+5544	5665	7994581006824954	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	19213e4e209e0eda
+5666	5831	7994581008447898	CMakeFiles/vorbis-populate-complete	6ef886d8820019de
+5666	5831	7994581008447898	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	6ef886d8820019de
+5666	5831	7994581008447898	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	6ef886d8820019de
+5666	5831	7994581008447898	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	6ef886d8820019de

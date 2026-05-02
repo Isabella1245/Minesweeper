@@ -1,0 +1,21 @@
+# ninja log v6
+7	128	7994580502048589	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	5084ddf067fe7465
+7	128	7994580502048589	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	5084ddf067fe7465
+128	3487	7994580535630233	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	98b322dfbf96acbd
+128	3487	7994580535630233	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	98b322dfbf96acbd
+3487	3834	7994580535717062	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	16d7aac376ca72b0
+3487	3834	7994580535717062	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	16d7aac376ca72b0
+3872	4043	7994580541123940	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	b2dff21657a807a5
+3872	4043	7994580541123940	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	b2dff21657a807a5
+4043	4151	7994580542271855	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	37ec687ae7a7ca0a
+4043	4151	7994580542271855	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	37ec687ae7a7ca0a
+4151	4265	7994580543373496	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	45208a10e314d618
+4151	4265	7994580543373496	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	45208a10e314d618
+4265	4378	7994580544543811	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	8a2b22c62d96584f
+4265	4378	7994580544543811	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	8a2b22c62d96584f
+4379	4498	7994580545714840	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	3419b0967bf93f1e
+4379	4498	7994580545714840	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	3419b0967bf93f1e
+4499	4656	7994580547239297	CMakeFiles/ogg-populate-complete	3795607d8cd9b3d5
+4499	4656	7994580547239297	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	3795607d8cd9b3d5
+4499	4656	7994580547239297	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete	3795607d8cd9b3d5
+4499	4656	7994580547239297	D:/Projects/C++/COP3503C/proj3/minesweeper/Minesweeper/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	3795607d8cd9b3d5
