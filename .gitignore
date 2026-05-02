@@ -1,0 +1,22 @@
+# Build artifacts
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake-build-debug/
+Debug/
+Release/
+
+# Binaries
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+
+# IDE files
+.vscode/
+.vs/
+
+# OS junk
+.DS_Store
+Thumbs.db
